@@ -42,7 +42,7 @@
 
             <!-- usaando a tag tbody para faer o cabeçalho -->
             <tbody>
-                
+
                 <!-- usando foreach para pegar cada item da tabela e apresentar no echo como $item -->
                 <?php foreach($dados as $item):?>
                     <tr>
